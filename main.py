@@ -26,4 +26,5 @@ def process_text():
 
 if __name__ == "__main__":
     print("new branch")
+    print("conflict line")
     process_text()
