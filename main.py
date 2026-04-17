@@ -25,4 +25,5 @@ def process_text():
         print(f"Произошла ошибка: {e}")
 
 if __name__ == "__main__":
+    print("new branch")
     process_text()
