@@ -4,6 +4,7 @@ def process_text():
     input_file = "input.txt"
     output_file = "result.txt"
 
+
     # Создаем файл, если его нет
     if not os.path.exists(input_file):
         with open(input_file, "w", encoding="utf-8") as f:
