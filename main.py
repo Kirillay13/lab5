@@ -26,4 +26,6 @@ def process_text():
 
 if __name__ == "__main__":
     print("new branch")
+    a = 1 + 1
+    print("main", a)
     process_text()
